@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="400">
+    <rect fill="#FF6B6B" width="400" height="400"/>
+    <text x="50%" y="45%" font-size="32" fill="#333" text-anchor="middle" font-family="Arial">Apple</text>
+    <text x="50%" y="55%" font-size="24" fill="#fff" text-anchor="middle" font-family="Arial">iPhone 12 Pro</text>
+</svg>
