@@ -1,9 +1,9 @@
 <?php
 // Database configuration
-$servername = "localhost";
-$username = "root";
-$password = "";
-$dbname = "localphone_marketplace";
+$servername = "sql308.infinityfree.com";
+$username = "if0_41723431";
+$password = "py7TRGhuZXjW3W";
+$dbname = "if0_41723431_localphone_marketplace";
 
 // Create connection
 $conn = new mysqli($servername, $username, $password);
